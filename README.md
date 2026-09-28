@@ -43,9 +43,8 @@ Kiberxavfsizlik sohasida ishlayman va Python orqali botlar hamda backend yozaman
 
 | Repository | Tavsif |
 |---|---|
-| [interior-designer](https://github.com/yoruk1ri/interior-designer) | 3D Max asosida interyer dizayn sayti |
-| [Nat](https://github.com/yoruk1ri/Nat) | Frontend loyihasi — HTML, SCSS va CSS |
-| [etest](https://github.com/yoruk1ri/etest) | E-test platformasi |
+| [interior-designer](https://github.com/yoruk1ri/interior-designer) | 3D Max asosida interyer dizayn sayti — vizualizatsiya va 3D modellash |
+| [etest](https://github.com/yoruk1ri/etest) | E-test platformasi — test yaratish va olish tizimi |
 
 ## Hozir
 
